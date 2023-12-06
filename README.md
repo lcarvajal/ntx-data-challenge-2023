@@ -10,5 +10,6 @@ Three of us collaborated in this competition together.
 
 - [Maximilian Carvajal](https://www.linkedin.com/in/maximilian-carvajal/)
 - [Maggie McDonough](https://www.linkedin.com/in/maggie-mcdonough/?trk=contact-info)
+- [Pouyan Firouzabadi](https://www.linkedin.com/in/pouyan-firouzabadi/)
 - [Samat Kadyrov](https://www.linkedin.com/in/skadyrov/)
 - [Lukas Carvajal](https://lcarvajal.github.io)
